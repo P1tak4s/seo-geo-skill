@@ -31,6 +31,7 @@ seo-geo/
     local.md              Google Business Profile, reviews, NAP, location pages
     international.md      hreflang, translations, locale formats
     programmatic.md       gates and build rules for template pages
+    agent-readiness.md    Is Agentic checks: how to run, what each check needs, fix order
     audit.md              audit flow, priorities, backlinks, GSC/GA4/CrUX, regression watch
     lithuania.md          Lithuanian copy, slugs, schema fields, directories, AI search in LT
 ```
@@ -43,6 +44,7 @@ Rules are rewritten and merged in my own words from these open-source projects; 
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude): GEO citability, AI crawlers, llms.txt, brand mentions, platform notes
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) and [aeo-box](https://github.com/alirezarezvani/aeo-box): AEO and citation patterns
 - Community skills for SEO fundamentals, schema markup, programmatic SEO and site architecture
+- [Is Agentic](https://is-agentic.com) methodology and report API
 - Google Search Central documentation
 
 ## License
